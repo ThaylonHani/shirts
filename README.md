@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Página : 
+
+<img src="https://github.com/ThaylonHani/shirts/assets/97197486/ecd85f25-ba46-49b7-962a-f822708afd50" >
+
+
 
 ## Getting Started
 
